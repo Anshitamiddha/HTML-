@@ -1,0 +1,33 @@
+/*Text alignment*/
+p{
+    text-align:start; /*in lang such as hindi, english left or start align means the same*/
+    line-height: 60px;
+    text-transform: uppercase;
+}
+h2{
+    text-align: center;
+    text-decoration: red wavy line-through;
+}
+/*text decoration=underline/overline/line through*/
+h3{
+    text-align: start;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;/* Whenever we give a link, it is shown with an underline. We use none for no such decorative element */
+}
+/*FOnt weight range:100-900*/
+
+#one{
+    font-weight: 100;
+}
+#two{
+    font-weight: 250;
+}
+#three{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#four{
+    font-weight:700;
+}
+/*Text transform property=uppercase/lowercase/capetilize/none*/
