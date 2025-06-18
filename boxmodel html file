@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level 2</title>
+    <link rel="stylesheet" href="boxmodel.css">
+</head>
+<body>
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore nulla nostrum dolorem facilis autem. Minima quo nisi, exercitationem fugiat consectetur itaque eum commodi minus atque corporis odio facere. Veniam, voluptates!
+    </p>
+    <button>Click</button>
+    <div id="two">
+        This is a div.
+    </div>
+    <div id="one">
+        Second Div
+    </div>
+    
+</body>
+</html>
